@@ -41,6 +41,8 @@ To create an executable from the Python script, you can use tools like PyInstall
 
 ```bash
 pip install pyinstaller
+```
+```bash
 pyinstaller --onefile login_script.py
 ```
 This will create an executable file in the dist directory.
