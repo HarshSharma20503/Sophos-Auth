@@ -28,6 +28,10 @@ To run the program, simply execute the Python script using your preferred Python
 ```bash
 python login_script.py
 ```
+OR
+```bash
+python3 login_script.py
+```
 
 ## Creating an Executable
 
